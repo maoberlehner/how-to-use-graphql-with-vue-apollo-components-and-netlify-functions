@@ -27,4 +27,5 @@ Thumbs.db
 
 # Folders to ignore
 dist/*
+/functions
 node_modules
