@@ -1,0 +1,8 @@
+{
+  articles {
+    body
+    id
+    image
+    title
+  }
+}
